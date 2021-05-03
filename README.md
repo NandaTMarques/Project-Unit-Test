@@ -2,7 +2,7 @@
 
 ## O que deverá ser desenvolvido
 
-Neste projeto da Trybe desenvolvi várias funções para atender aos requisitos propostos e/ou testes unitários para garantir que as implementações das funções estão corretas.
+Neste projeto da Trybe desenvolvi várias funções para atender aos requisitos propostos e/ou testes unitários para garantir que as implementações das funções estivesse corretas.
 
 ## Desenvolvimento
 
